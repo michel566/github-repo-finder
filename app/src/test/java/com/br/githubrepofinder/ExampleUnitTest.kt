@@ -1,4 +1,4 @@
-package com.example.githubrepofinder
+package com.br.githubrepofinder
 
 import org.junit.Test
 
